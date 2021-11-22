@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @d4nmc
-- 👀 I’m interested in coding solutions in business
-- 🌱 I’m currently learning the basics
-- 💞️ I’m looking to collaborate on a beer and good ideas
 - 📫 How to reach me- danielmcgee.work@gmail.com
